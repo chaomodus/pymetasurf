@@ -8,7 +8,4 @@ setup(name='pymetasurf',
       author_email='rusnovn@gmail.com',
       license='LGPL',
       packages=['pymetasurf'],
-      install_requires=[
-          'ctypes',
-      ],
       zip_safe=False)
