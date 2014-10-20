@@ -1,7 +1,7 @@
 # Various interesting shapes!
 # Written by Cas Rusnov <rusnovn@gmail.com>
 
-"""Interesting Shapes for Metasurface Extraction."""
+"""These are simple metasurface states and equations for producing interesting shapes with metasurface."""
 
 from math import pi, sin, cos, tan, sqrt, exp, radians
 import pymetasurf
